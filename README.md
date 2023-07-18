@@ -1,4 +1,4 @@
-Bandito Racing
+**Bandito Racing** - FiveM Map
 
 A small racetrack where you could race with rcbanditos, located at: **-920.9135, -724.4799, 19.9719, 170.8050**
 originally made for my own server, STRPWFL Roleplay (You can change the texture to your server logo or something else!). All files are accessible ofcourse.
